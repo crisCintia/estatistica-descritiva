@@ -21,7 +21,7 @@ Este repositório contém um programa para calcular estatísticas descritivas ut
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/estatistica-descritiva.git
+   git clone https://github.com/crisCintia/estatistica-descritiva.git
 
 2. Execute o arquivo:
     python estatistica_descritiva.py
